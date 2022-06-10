@@ -32,6 +32,7 @@
 ## 开发
 
 ```bash
+npx degit aliuq/mp-uniapp-vite-vue3 .
 pnpm run install
 pnpm run dev:mp-weixin
 pnpm run build:mp-weixin
